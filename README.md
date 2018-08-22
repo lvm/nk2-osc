@@ -17,6 +17,11 @@ There's a `mapping.py` example available in the repository which presents a work
 
 [non-mixer Manual](http://non.tuxfamily.org/mixer/doc/MANUAL.html)
 
+## Dependencies
+
+* https://pypi.org/project/python-osc/
+* https://pypi.org/project/python-rtmidi/
+
 
 ## License
 
